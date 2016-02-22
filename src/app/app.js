@@ -32,8 +32,8 @@ angular.module( 'orderCloud', [
 
     //App Constants used by the OrderCloud SDK
     .constant("ocscope", "FullAccess")
-    .constant("clientid", "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX")
-    .constant("buyerid", "XXXXXXXXXX")
+    .constant("clientid", "2066d087-3b06-4f01-a754-2d642135d268")
+    .constant("buyerid", "1111")
 
     //OrderCloud Base URLs
     .constant("authurl", "https://auth.ordercloud.io/oauth/token")

@@ -28,7 +28,7 @@ angular.module( 'orderCloud', [
     .config( Routing )
     .config( ErrorHandling )
     .controller( 'AppCtrl', AppCtrl )
-    .constant("appname", "OrderCloud AngularJS Seed")
+    .constant("appname", "MLB Hall of Fame")
 
     //App Constants used by the OrderCloud SDK
     .constant("ocscope", "FullAccess")
